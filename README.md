@@ -1,1 +1,1 @@
-# docker-compose-php-nginx-mysql-reids
+# docker-compose-php-nginx-mysql-redis
